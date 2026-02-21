@@ -4,5 +4,3 @@
 - files weren't touched except adding a comment on last last of every lua
 
 dump reason: hrisitosense shutdown, archival purposes.
-
--- edit: so my parser died for some of the luas, gonna fix them manually soon and add them.
