@@ -1,2 +1,2 @@
 # hrisitosense-workshop
-rip hrisito
+dump reason: hrisitosense shutdown, archival purposes.
